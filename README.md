@@ -45,7 +45,7 @@ WatchMe
 ### To download and initializing the project run the following command.
 
 ```bash
-$ git clone https://github.com/joaoeduardodias/desafio_01-ReactJS.git
+$ git clone https://github.com/joaoeduardodias/desafio-02-ReactJS.git
 $ cd desafio_01-ReactJS
 $ yarn
 
