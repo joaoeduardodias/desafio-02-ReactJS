@@ -46,7 +46,7 @@ WatchMe
 
 ```bash
 $ git clone https://github.com/joaoeduardodias/desafio-02-ReactJS.git
-$ cd desafio_01-ReactJS
+$ cd desafio-02-ReactJS
 $ yarn
 
 ```
